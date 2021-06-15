@@ -74,5 +74,6 @@ namespace BinarySearchTree
         {
             Console.WriteLine("Size of Binary Serach Tree " + (1 + leftCount + rightCount));
         }
+       
     }
 }
